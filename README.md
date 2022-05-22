@@ -13,4 +13,5 @@
 - Created 05/21/22 from GaneDev.TV tutorial
 
 ---
+### Gameplay Screenshot
 ![Screenshot](https://raw.githubusercontent.com/TechnoOakGames/Dapper_Dasher/main/Gameplay-Screenshot2.png)
