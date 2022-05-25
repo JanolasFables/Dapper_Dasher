@@ -5,12 +5,12 @@
 - Hop over incoming rolling objects without touching them
 
 ## Controls
-- Space Bar : Jump
-- Escape : Quit the game
+- Jump : Space Bar
+- Quit : Escape
 
 ## Details 
 - Built with C++ using the raylib library
-- Created 05/21/22 from GaneDev.TV tutorial
+- Completed 05/21/22 from GaneDev.TV tutorial
 
 ---
 ### Gameplay Screenshot
